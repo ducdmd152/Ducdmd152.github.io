@@ -1,6 +1,10 @@
 
 const $ = document.querySelector.bind(document)
 const $$ = document.querySelectorAll.bind(document)
+for(let i=1;i<4;i++)
+setTimeout(()=> {
+    $('.right.carousel-control').click();
+},i*3000);
 
 // RENDER WORKS
 const slider = $("#myCarousel .carousel-inner");
