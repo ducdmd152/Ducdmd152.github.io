@@ -13,13 +13,13 @@ let works = [
         name: "Pea Clock",
         desc: "",
         img: "https://drive.google.com/uc?id=18u6XDISidqm4AVMEeiMkUV4RCAgL2OJ0",
-        link: "https://peakodev.github.io/PeaClock/"
+        link: "./SP3-ClockClone/"
     },
     {
         name: "Fashion Store",
         desc: "",
         img: "https://drive.google.com/uc?id=1Fmj0OdxYojhlIRFVeTbyiTr-2SYj3qNU",
-        link: "https://peakodev.github.io/PeaFashionStore/"
+        link: "./SP12-GOYAStoreTemplateClone/"
     },
     {
         name: "Pea Calculator",
