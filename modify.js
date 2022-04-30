@@ -25,61 +25,61 @@ let works = [
         name: "Pea Calculator",
         desc: "",
         img: "https://drive.google.com/uc?id=1iCwXUGd7So_FJ2Mg-ylnom2bluYkBSeO",
-        link: "https://peakodev.github.io/PeaCalculator/"
+        link: "./SP13-CalculatorwithVanillaJS/"
     },
     {
         name: "Pea Pomodoro",
         desc: "",
         img: "https://drive.google.com/uc?id=10ohFOfq261giBJdbEMbUp3mGCf2GQmwy",
-        link: "https://peakodev.github.io/PeaPomodoro/"
+        link: "./SP8-MyPomodoro/"
     },
     {
-        name: "Pea Task-list",
+        name: "Task-list",
         desc: "",
         img: "https://drive.google.com/uc?id=1VDQMkGlwHlvE0tZRRZezEwNr2OX4aF-r",
-        link: "https://peakodev.github.io/PeaTasks/"
+        link: "SP14-TodoListwithVanillaJs"
     },
     {
-        name: "Pea Caro",
+        name: "Caro Game",
         desc: "",
         img: "https://drive.google.com/uc?id=1HcN07tyFCdgUE9liS5nvtsKieqiNkt9O",
-        link: "https://peakodev.github.io/PeaCaro/"
+        link: "./SP4-CaroGamewithVanillaJS/"
     },
     {
-        name: "Pea snake",
+        name: "Snake game",
         desc: "",
         img: "https://drive.google.com/uc?id=1zvEozVLonJ_ZI_pPbxjVf-UWqM4HmNPe",
-        link: "https://peakodev.github.io/PeaSnack/"
+        link: "./SP7-SnakeGameClone/"
     },
     {
-        name: "Pea Music",
+        name: "Music Radio",
         desc: "",
         img: "https://drive.google.com/uc?id=1qH7r7z6AXWawgyojAyBSomaswyzwpVWo",
-        link: "https://peakodev.github.io/PeaMusicPlayer/"
+        link: "./SP10-DuskMusicPlayer/"
     },
     {
-        name: "Pea Media",
+        name: "Fin Media",
         desc: "",
         img: "https://drive.google.com/uc?id=1ddRM6rHr4oqphB9VXZ-0wENsfb2ycDx6",
-        link: "https://peakodev.github.io/PeaSocialProfile/"
+        link: "./SP1-FinSocialMediaProfile/"
     },
     {
-        name: "Tasks manager",
+        name: "Work manager",
         desc: "",
         img: "https://drive.google.com/uc?id=1UB_-vqkYW1TMCPFrRBPkroI3x7aAvK7_",
-        link: "https://peakodev.github.io/PeaDayTasks/"
+        link: "./SP9-WorkspaceUI/"
     },
     {
         name: "Peacoin Graph",
         desc: "",
         img: "https://drive.google.com/uc?id=1zTtVai4ezfZA4CO-FyLkOnVsnCKE3M2H",
-        link: "https://peakodev.github.io/Peacoin/"
+        link: "./SP6-CoinGraph/"
     },
     {
-        name: "Pea Drag Drop",
+        name: "Drag Drop Tour",
         desc: "",
         img: "https://drive.google.com/uc?id=1fhPx2VzgYXNVEjfS4OAJgesaBmJvn8mk",
-        link: "https://peakodev.github.io/PeaGoDrag/"
+        link: "./SP2-GoDragwithVanillaJS/"
     },
     // {
     //    name: "Shopee UI",
